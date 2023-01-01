@@ -7,17 +7,19 @@
     padding-top: 10px;
 }
 .margin{
-    margin-left: 18%;
+    margin-left: 13%;
     display: flex;
 }
 .padding{
-    margin-left: 30%;
+    margin-left: 55%;
 }
+
 .active{
     margin-top: 10px;
 }
 .navbar{
     height: 70px;
+    
 }
 
 .player img{
